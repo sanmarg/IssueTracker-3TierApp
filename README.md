@@ -12,5 +12,17 @@
 ## Nexus:
 ![image](https://github.com/sanmarg/IssueTracker-3TierApp/assets/50082154/b9daea55-a1f5-4713-9ad0-cbd0fd61c31c)
 
+## Prometheus:
+![image](https://github.com/sanmarg/IssueTracker-3TierApp/assets/50082154/34eb4e87-3d69-424e-b541-9ffe28e6ce6f)
+
+## Node Exporter:
+![image](https://github.com/sanmarg/IssueTracker-3TierApp/assets/50082154/41e81e35-342c-413f-a06e-4ad4f8240029)
+
+## Grafana Dashboard: 
+![image](https://github.com/sanmarg/IssueTracker-3TierApp/assets/50082154/a0f0556b-ffed-4c57-be02-fc1947dc518e)
+
+
 ## Terraform:
+
+
 

@@ -9,6 +9,10 @@
 ## SonarQube:
 ![image](https://github.com/sanmarg/IssueTracker-3TierApp/assets/50082154/1ae2cc52-3145-4375-a324-a382ff23f804)
 
+## Trivy:
+![image](https://github.com/sanmarg/IssueTracker-3TierApp/assets/50082154/56f5445d-4888-4521-ba0d-6608a0151d1c)
+
+
 ## Nexus:
 ![image](https://github.com/sanmarg/IssueTracker-3TierApp/assets/50082154/b9daea55-a1f5-4713-9ad0-cbd0fd61c31c)
 
@@ -20,6 +24,7 @@
 
 ## Grafana Dashboard: 
 ![image](https://github.com/sanmarg/IssueTracker-3TierApp/assets/50082154/a0f0556b-ffed-4c57-be02-fc1947dc518e)
+
 
 
 ## Terraform:
